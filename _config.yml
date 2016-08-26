@@ -1,7 +1,8 @@
 name: ITZAPPZ
 favicon: null
-layout_spectrum: 0.688976890174672
-typography_spectrum: 0.20653538242913783
+layout_spectrum: 1
+typography_spectrum: 0.90227
+title: ITZAPPZ = It's all about the apps!
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8841599158477038
-  lightness: 0.3764025401324034
-  saturation: 0.5288077236618847
-  rhythmicContrast: 0.24738261988386512
+    - '#76d2eb'
+    - '#fafafa'
+    - '#ffc337'
+    - '#fc4c01'
+    - '#007bff'
+  brandStrength: 0.0625
+  lightness: 0.75
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
