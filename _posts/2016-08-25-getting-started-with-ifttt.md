@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: IFTTT.com
 inLanguage: null
 keywords: []
 description: >-
@@ -13,8 +12,8 @@ description: >-
   Recipes for marketers...  Recipes for the online shopper...  Recipes for the
   small business owner...  Recipes for your car...  Recipes for music lovers... 
   Recipes for Outer Space...
-datePublished: '2016-08-26T02:46:46.371Z'
-dateModified: '2016-08-26T02:46:19.735Z'
+datePublished: '2016-08-26T02:58:34.143Z'
+dateModified: '2016-08-26T02:58:17.941Z'
 author: []
 title: Recipes for iOS...
 via: {}
@@ -25,8 +24,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
-_type: MediaObject
+starred: true
+url: recipes-for-ios/index.html
+_type: Article
 
 ---
 ![Challenge yourself to learn the form and function; then master the craft, art and science of “Application Synchronization”.  Recipes for iOS...  Recipes for the internet of things...  Recipes to streamline your social media  Recipes for Android...  Recipes for the home...  Recipes for a healthy lifestyle...  Recipes for marketers...  Recipes for the online shopper...  Recipes for the small business owner...  Recipes for your car...  Recipes for music lovers...  Recipes for Outer Space...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf96d056-f986-4c41-a6ee-94dfbb9b00ec.jpg)
