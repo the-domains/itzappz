@@ -4,8 +4,15 @@
         <description><![CDATA[ITZAPPZ]]></description>
         <link>https://thegrid.ai/itzappz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 02:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 02:46:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/itzappz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Recipes for iOS...]]></title>
+            <description><![CDATA[<article><h1>Recipes for iOS...</h1><p>Challenge yourself to learn the form and function; then master the craft, art and science of “Application Synchronization”.  Recipes for iOS...  Recipes for the internet of things...  Recipes to streamline your social media  Recipes for Android...  Recipes for the home...  Recipes for a healthy lifestyle...  Recipes for marketers...  Recipes for the online shopper...  Recipes for the small business owner...  Recipes for your car...  Recipes for music lovers...  Recipes for Outer Space...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf96d056-f986-4c41-a6ee-94dfbb9b00ec.jpg"></article>]]></description>
+            <link>IFTTT.com</link>
+            <guid isPermaLink="false">f77cf19e-6a44-4460-9d7a-70a33eb73a2b</guid>
+            <pubDate>Fri, 26 Aug 2016 02:46:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IoT]]></title>
             <description><![CDATA[<article><h1>IoT</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96f64cbc-1e12-46da-8536-15044e2e72c4.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/itzappz/social-media/index.html</link>
             <guid isPermaLink="false">55710b0a-d77c-442a-9a59-30ceb9908109</guid>
             <pubDate>Fri, 26 Aug 2016 02:41:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recipes for iOS...]]></title>
-            <description><![CDATA[<article><h1>Recipes for iOS...</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf96d056-f986-4c41-a6ee-94dfbb9b00ec.jpg"></article>]]></description>
-            <link>IFTTT.com</link>
-            <guid isPermaLink="false">f77cf19e-6a44-4460-9d7a-70a33eb73a2b</guid>
-            <pubDate>Fri, 26 Aug 2016 02:21:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
