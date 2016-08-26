@@ -1,17 +1,31 @@
 ---
-author: []
-title: Recipes for iOS...
-description: ''
-via: {}
-isBasedOnUrl: IFTTT.com
-publisher: {}
-dateModified: '2016-08-25T18:07:57.734Z'
-datePublished: '2016-08-26T02:21:45.546Z'
-sourcePath: _posts/2016-08-25-getting-started-with-ifttt.md
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: IFTTT.com
+inLanguage: null
+keywords: []
+description: >-
+  Challenge yourself to learn the form and function; then master the craft, art
+  and science of “Application Synchronization”.  Recipes for iOS...  Recipes for
+  the internet of things...  Recipes to streamline your social media  Recipes
+  for Android...  Recipes for the home...  Recipes for a healthy lifestyle... 
+  Recipes for marketers...  Recipes for the online shopper...  Recipes for the
+  small business owner...  Recipes for your car...  Recipes for music lovers... 
+  Recipes for Outer Space...
+datePublished: '2016-08-26T02:46:46.371Z'
+dateModified: '2016-08-26T02:46:19.735Z'
+author: []
+title: Recipes for iOS...
+via: {}
+sourcePath: _posts/2016-08-25-getting-started-with-ifttt.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _type: MediaObject
 
 ---
@@ -26,5 +40,4 @@ _type: MediaObject
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51d1106e-b0df-46df-8cf4-5d2402fd3085.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0af4c9f2-e99c-4f7a-b76a-9b880afb52c4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d62222ef-7114-4da4-a33e-403a36b7f03f.jpg)
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6068b5ba-9acc-45c2-99da-992d5fcb3081.jpg)
