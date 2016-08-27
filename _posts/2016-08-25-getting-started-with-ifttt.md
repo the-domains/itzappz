@@ -5,19 +5,15 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-26T15:32:56.883Z'
-dateModified: '2016-08-26T15:32:21.489Z'
+datePublished: '2016-08-26T15:34:19.057Z'
+dateModified: '2016-08-26T15:33:45.790Z'
 author: []
 title: ''
 via: {}
 sourcePath: _posts/2016-08-25-getting-started-with-ifttt.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: true
+publisher: {}
+starred: false
 url: recipes-for-ios/index.html
 _type: Article
 
