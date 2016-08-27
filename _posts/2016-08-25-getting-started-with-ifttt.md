@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-26T15:37:55.728Z'
-dateModified: '2016-08-26T15:37:52.928Z'
+datePublished: '2016-08-26T15:40:11.048Z'
+dateModified: '2016-08-26T15:40:00.341Z'
 author:
   - name: ''
     url: ''
