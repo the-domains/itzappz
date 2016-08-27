@@ -5,21 +5,28 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-26T15:34:19.057Z'
-dateModified: '2016-08-26T15:33:45.790Z'
-author: []
-title: ''
+datePublished: '2016-08-26T15:37:55.728Z'
+dateModified: '2016-08-26T15:37:52.928Z'
+author:
+  - name: ''
+    url: ''
+title: It's All About The Apps...
 via: {}
 sourcePath: _posts/2016-08-25-getting-started-with-ifttt.md
 authors: []
-publisher: {}
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: false
 url: recipes-for-ios/index.html
 _type: Article
 
 ---
+In Technically accurate summation, ITZAPPZ is the art of mutimodal application processing for the formulation of solutions for technical application. The "art" of ITZAPPZ lies directly within the redundancy of its description... It is an infinite process of processes. 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c059db4b-9c0c-4c74-b854-3afb43a3e3a1.jpg)
-![Challenge yourself to learn the form and function; then master the craft, art and science of “Application Synchronization”.  Recipes for iOS...  Recipes for the internet of things...  Recipes to streamline your social media  Recipes for Android...  Recipes for the home...  Recipes for a healthy lifestyle...  Recipes for marketers...  Recipes for the online shopper...  Recipes for the small business owner...  Recipes for your car...  Recipes for music lovers...  Recipes for Outer Space...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf96d056-f986-4c41-a6ee-94dfbb9b00ec.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf96d056-f986-4c41-a6ee-94dfbb9b00ec.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/783df8d3-6a25-45d2-8d70-f348579a2078.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf00da3a-05fd-4045-bf02-18747f412541.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e31e9f42-244a-4ef2-9148-32a11cdbfad0.jpg)
