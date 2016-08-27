@@ -4,8 +4,15 @@
         <description><![CDATA[ITZAPPZ = It's all about the apps!]]></description>
         <link>https://thegrid.ai/itzappz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 15:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 15:40:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/itzappz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It's All About The Apps...]]></title>
+            <description><![CDATA[<article><h1>It's All About The Apps...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c059db4b-9c0c-4c74-b854-3afb43a3e3a1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/itzappz/recipes-for-ios/index.html</link>
+            <guid isPermaLink="false">f77cf19e-6a44-4460-9d7a-70a33eb73a2b</guid>
+            <pubDate>Fri, 26 Aug 2016 15:40:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Social Media]]></title>
             <description><![CDATA[<article><h1>Social Media</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/547518a1-47db-4955-a7dd-2c96482e3f94.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/itzappz/7db574c4-1430-4750-88e3-79048a82fd56/index.html</link>
             <guid isPermaLink="false">7db574c4-1430-4750-88e3-79048a82fd56</guid>
             <pubDate>Fri, 26 Aug 2016 15:39:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[It's All About The Apps...]]></title>
-            <description><![CDATA[<article><h1>It's All About The Apps...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c059db4b-9c0c-4c74-b854-3afb43a3e3a1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/itzappz/recipes-for-ios/index.html</link>
-            <guid isPermaLink="false">f77cf19e-6a44-4460-9d7a-70a33eb73a2b</guid>
-            <pubDate>Fri, 26 Aug 2016 15:37:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
